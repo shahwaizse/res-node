@@ -1,0 +1,1 @@
+resnode aims to create an AI agent that is given an initial link to a webpage, let's assume a very obscure and complicated api doc, and is able to traverse the page through links and sitemaps to find the optimal route through the page given a certain goal.
